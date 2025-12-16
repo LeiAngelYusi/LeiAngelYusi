@@ -4,18 +4,21 @@
   <h2>📘 Education</h2>
   <p>Bachelor of Science in Information Technology (BSIT)</p>
 
-<h2>📜 Certifications</h2>
-<p>
-  <a href="https://courses.cognitiveclass.ai/certificates/20e33d334dc64315b9f0efc9f822bcf5" target="_blank" rel="noopener noreferrer">
-    SQL and Relational Databases 101
-  </a>
-</p>
-<p>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9D6987567289D9F6463D9D7F8C5F6918DE368D33A0CFB3CBA84658ED48552F1B" target="_blank" rel="noopener noreferrer">
-    Oracle Cloud Infrastructure 2025 Certified Foundations Associate
-  </a>
-</p>
-
+  <h2>📜 Certifications</h2>
+  <p>
+    <a href="https://courses.cognitiveclass.ai/certificates/20e33d334dc64315b9f0efc9f822bcf5" target="_blank" rel="noopener noreferrer">
+      SQL and Relational Databases 101
+    </a>
+  </p>
+  <p>
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9D6987567289D9F6463D9D7F8C5F6918DE368D33A0CFB3CBA84658ED48552F1B" target="_blank" rel="noopener noreferrer">
+      Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+    </a>
+  </p>
+  <p>
+    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4FCF3E564D4CA8EB1F637D6A24D5E2426FFB269D55EF81C8A4AFD25DCBB2955A" target="_blank" rel="noopener noreferrer">
+      Oracle Cloud Infrastructure 2025 Certified Architect Associate
+    </a>
   </p>
 
   <h2>🛠 Skillsets</h2>
@@ -43,3 +46,4 @@
     </tr>
   </table>
 </div>
+
