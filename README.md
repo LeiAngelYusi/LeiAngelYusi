@@ -20,6 +20,11 @@
       Oracle Cloud Infrastructure 2025 Certified Architect Associate
     </a>
   </p>
+  <p>
+    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E65EE9CBA9905109F7F61B455E78ACF630D38A27B08CA7C9A62B769EFCCBEE40" target="_blank" rel="noopener noreferrer">
+      Oracle Cloud Infrastructure Certified (Share Badge)
+    </a>
+  </p>
 
   <h2>🛠 Skillsets</h2>
   <table>
@@ -46,4 +51,3 @@
     </tr>
   </table>
 </div>
-
