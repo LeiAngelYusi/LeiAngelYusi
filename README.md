@@ -1,9 +1,10 @@
 <div>
+  <p align="center">
+    <img src="profile.png" width="150" style="border-radius:50%" alt="Lei Angel Yusi"/>
+  </p>
   <h1>👋 Hi there, I'm Lei Angel Yusi</h1>
-
   <h2>📘 Education</h2>
   <p>Bachelor of Science in Information Technology (BSIT)</p>
-
   <h2>📜 Certifications</h2>
   <p>
     <a href="https://courses.cognitiveclass.ai/certificates/20e33d334dc64315b9f0efc9f822bcf5" target="_blank" rel="noopener noreferrer">
@@ -25,7 +26,6 @@
       Oracle Cloud Infrastructure Certified
     </a>
   </p>
-
   <h2>🛠 Skillsets</h2>
   <table>
     <tr>
