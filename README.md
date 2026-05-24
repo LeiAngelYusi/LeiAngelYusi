@@ -49,7 +49,7 @@
 
   <h2>📬 Contact Me</h2>
   <ul>
-    <li>🔗 <a href="www.linkedin.com/in/lei-angel-yusi-859733393" target="_blank">LinkedIn</a></li>
+     <li>🔗 <a href="https://www.linkedin.com/in/lei-angel-yusi-859733393/" target="_blank">LinkedIn</a></li>
     <li>📧 <a href="mailto:leiangel303@gmail.com">leiangel303@gmail.com</a></li>
   </ul>
 </div>
